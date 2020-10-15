@@ -1,0 +1,83 @@
+i{
+    color: white;
+}
+.gray{
+    background-color: rgb(109, 101, 101);
+    height: 50px;
+    color: white;
+}
+.location{
+    padding-left: 30px;
+    padding-top: 15px;
+    display: flex;
+
+}
+.socialmedia{
+    padding-left: 57%;
+}
+.left{
+    font-size: medium;
+    font-family: Arial;
+}
+.logo{
+    padding-top: 15px;
+    padding-left: 30px;
+    padding-bottom: 15px;
+    
+}
+
+.menu{
+display: flex;
+    padding-left: 10%;
+    height: 40px;
+    font-size: medium;
+    color: black;
+    font-weight: 20px;
+   
+}
+.second{
+    display: flex;
+}
+button{
+    outline: none !important;
+}
+#cont{
+    height: 40px;
+    font-size: medium;
+    display: block;
+}
+#cont:hover{ color: white;  background-color: rgb(109, 101, 101) ;}
+.btn{
+    border: 1px solid transparent;
+}
+.nav-link{
+    color: white;
+}
+
+.navbar .nav-item .dropdown-menu{ display: none;  background-color:rgb(109, 101, 101) ;}
+.navbar .nav-item:hover .nav-link{ color: white;  background-color: rgb(109, 101, 101) ;}
+.navbar .nav-item:hover .dropdown-menu{ display: block; color: white; }
+.navbar .nav-item .dropdown-menu{ margin-top:0; }
+.dropdown-item{
+    color: white;
+}
+#search-icon {
+    color: black;
+    padding-top: 12px;
+  }
+  
+.last{
+    background-color: wheat;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    
+}
+.whatsap{
+    padding-right: 90%;
+    padding-top: 0px;
+}
+ .fa-search:hover{
+color: white !important;
+ }
+       
