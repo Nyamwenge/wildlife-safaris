@@ -1,3 +1,6 @@
+body{
+    contain: content;
+}
 i{
     color: white;
 }
